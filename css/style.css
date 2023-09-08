@@ -278,7 +278,7 @@ body{
         background-color: #F2E0FF;
         margin-top: 100px;
         width: 600px;
-        height: 100px;
+        height: 150px;
         display: flex;
         align-content: center;
         align-items: center;
@@ -293,7 +293,8 @@ body{
     .bcontainer h1{
      font-family: "Poppins", sans-serif;
      font-size: 35px;
-     width: auto;
+     width: 280px;
+     margin-left: 20px;
     }
     
     /*.Imagen1{
